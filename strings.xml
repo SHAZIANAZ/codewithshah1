@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="PlayButton">play</string>
+    <string name="playerSetupTitle">Enter Your Name</string>
+    <string name="Lable1">Player1</string>
+    <string name="Lable2">Player2</string>
+    <string name="SubmitButton">Submit Names</string>
+    <string name="NameHint">Enter Your Name</string>
+    <string name="player_1_0">Player 1: 0</string>
+    <string name="player_2_0">Player 2: 0</string>
+</resources>
